@@ -1,0 +1,88 @@
+/* Typo scale utilities — tokens: --typo-* in theme.css */
+
+@utility typo-display {
+  font-size: var(--typo-display);
+  line-height: var(--typo-display--line-height);
+  font-weight: var(--typo-display--font-weight);
+  letter-spacing: var(--typo-display--letter-spacing);
+}
+
+@utility typo-h1 {
+  font-size: var(--typo-h1);
+  line-height: var(--typo-h1--line-height);
+  font-weight: var(--typo-h1--font-weight);
+  letter-spacing: var(--typo-h1--letter-spacing);
+}
+
+@utility typo-h2 {
+  font-size: var(--typo-h2);
+  line-height: var(--typo-h2--line-height);
+  font-weight: var(--typo-h2--font-weight);
+  letter-spacing: var(--typo-h2--letter-spacing);
+}
+
+@utility typo-h3 {
+  font-size: var(--typo-h3);
+  line-height: var(--typo-h3--line-height);
+  font-weight: var(--typo-h3--font-weight);
+}
+
+@utility typo-h4 {
+  font-size: var(--typo-h4);
+  line-height: var(--typo-h4--line-height);
+  font-weight: var(--typo-h4--font-weight);
+}
+
+@utility typo-h5 {
+  font-size: var(--typo-h5);
+  line-height: var(--typo-h5--line-height);
+  font-weight: var(--typo-h5--font-weight);
+}
+
+@utility typo-h6 {
+  font-size: var(--typo-h6);
+  line-height: var(--typo-h6--line-height);
+  font-weight: var(--typo-h6--font-weight);
+  letter-spacing: var(--typo-h6--letter-spacing);
+}
+
+@utility typo-body {
+  font-size: var(--typo-body);
+  line-height: var(--typo-body--line-height);
+  font-weight: var(--typo-body--font-weight);
+}
+
+@utility typo-body-sm {
+  font-size: var(--typo-body-sm);
+  line-height: var(--typo-body-sm--line-height);
+}
+
+@utility typo-caption {
+  font-size: var(--typo-caption);
+  line-height: var(--typo-caption--line-height);
+  font-weight: var(--typo-caption--font-weight);
+  letter-spacing: var(--typo-caption--letter-spacing);
+}
+
+@utility typo-label {
+  font-size: var(--typo-label);
+  line-height: var(--typo-label--line-height);
+  font-weight: var(--typo-label--font-weight);
+  letter-spacing: var(--typo-label--letter-spacing);
+}
+
+@utility typo-sans {
+  font-family: var(--typo-sans);
+}
+
+@utility typo-mono {
+  font-family: var(--typo-mono);
+}
+
+@utility typo-geist {
+  font-family: var(--typo-geist);
+}
+
+@utility typo-geist-mono {
+  font-family: var(--typo-geist-mono);
+}

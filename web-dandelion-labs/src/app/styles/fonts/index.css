@@ -1,0 +1,4 @@
+/* Self-hosted fonts — run npm run fonts:sync after install */
+@import "./hanken-grotesk.css";
+@import "./jetbrains-mono.css";
+@import "./geist.css";

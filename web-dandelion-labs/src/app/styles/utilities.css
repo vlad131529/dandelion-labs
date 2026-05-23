@@ -1,0 +1,14 @@
+@utility container-page {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-inline: auto;
+  padding-inline: var(--spacing-container-x);
+}
+
+@utility section-padding {
+  padding-block: var(--spacing-section-y);
+}
+
+@utility section-padding-lg {
+  padding-block: var(--spacing-section-y-lg);
+}
